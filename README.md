@@ -10,7 +10,7 @@
 
 ## Introduction
 
-Now that you have an understanding of the DOM and powerful tools for selecting
+Now that you have an understgit@github.com:rovenelabanga001/phase-0-the-dom-modifying-elements-lab.gitanding of the DOM and powerful tools for selecting
 the right elements, it's time to learn how to:
 
 1. Create new nodes
